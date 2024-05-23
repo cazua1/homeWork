@@ -20,5 +20,5 @@ public class Vampire extends Enemy{
             health -= damage;
             health += lifeSteal;
         }
-    };
+    }
 }

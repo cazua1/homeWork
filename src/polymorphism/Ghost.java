@@ -29,5 +29,5 @@ public class Ghost extends Enemy{
             }
             health -= finalDamage;
         }
-    };
+    }
 }

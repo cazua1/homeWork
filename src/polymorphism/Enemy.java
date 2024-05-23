@@ -17,7 +17,7 @@ public abstract class Enemy implements Mortal {
         if (isAlive()) {
             health -= damage;
         }
-    };
+    }
 
     public abstract void attackHero(Hero hero);
 
